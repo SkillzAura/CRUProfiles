@@ -25,7 +25,7 @@ Profiles are organized by manufacturer and model:
     /XL2411K.bin
   /ZOWIE
     /XL2546K.bin
-
+```
 
 ## 🛠️ Installation Instructions
 1.  **Download:** Grab the `.bin` or `.dat` file for your specific monitor model.
